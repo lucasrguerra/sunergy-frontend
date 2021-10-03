@@ -8,7 +8,7 @@ On the route / is the page where you can consult data on solar energy in your re
 ### 1º Step - Download
 To download directly from GitHub, run the following command:
 ```
-git clone https://github.com/lucasrguerra/sunergy-backend.git
+git clone https://github.com/lucasrguerra/sunergy-frontend.git
 ```
 
 ### 2º Step - Install dependecies
