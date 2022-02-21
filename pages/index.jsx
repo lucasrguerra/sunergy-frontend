@@ -58,11 +58,10 @@ export default function IndexPage() {
   return (
     <div>
       <Header />
-      <div className="text-white bg-blue-800 h-44 pt-5 px-16 md:px-36 lg:px-48 xl:px-96">
-        <h3 className="text-xl pt-5 md:pt-0 md:text-2xl text-left">Saiba mais sobre a</h3>
+      <div className="text-white bg-blue-800 py-8 px-16 md:px-36 lg:px-48 xl:px-96">
+        <h3 className="text-xl md:text-2xl text-left">Saiba mais sobre a</h3>
         <h4 className="text-2xl md:text-4xl font-bold text-center">ENERGIA SOLAR</h4>
         <h3 className="text-xl md:text-2xl text-right">onde você mora</h3>
-        <br />
       </div>
 
       <br /><br />
